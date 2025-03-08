@@ -1,0 +1,6 @@
+ 
+.env
+contract_review/.DS_Store
+*.pyc
+*.egg-info/
+*.DS_Store*
